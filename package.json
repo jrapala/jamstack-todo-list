@@ -1,0 +1,17 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Juliette Rapala <jrapala@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "gatsby": "^2.24.56",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "develop": "gatsby develop"
+  }
+}
